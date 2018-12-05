@@ -1,3 +1,8 @@
+'''
+Wilda Anggriani
+05 Desember 2018
+'''
+
 import pandas as pd
 from requests import get
 from bs4 import BeautifulSoup
